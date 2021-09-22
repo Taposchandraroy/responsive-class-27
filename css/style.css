@@ -1,0 +1,200 @@
+@media (max-width:1200px){
+    .fixed-width {
+	width: 90%;
+    max-width: 90%;
+	margin: auto;
+    padding-left: -20px;
+    padding-right: -20px;
+}
+}
+@media (max-width:992px){
+     .header-right ul li a {
+	padding: 0 9px;	
+	
+}
+.banar-img {
+	height: 365px;
+}
+.content h1 {
+	left: 206px;
+	top: 134px;
+	font-size: 32px;
+}
+.content b {
+	
+	top: 181px;
+	left: 171px;
+
+}
+.content a {
+	top: 223px;
+	left: 279px;
+
+}
+.all-searvice h2 {
+	font-size: 20px;
+}
+.all-searvice p {
+
+	font-size: 14px;
+}
+.img img {
+	height: 212px;
+	padding: 23px;
+	
+}
+.contact-me {
+	margin-top: 72px;
+	margin-left: -27px;
+}
+}
+
+@media (max-width:770px){
+.header-left h2 {
+	font-size: 20px;
+}
+   .header-right ul li a {
+	font-size: 11px;
+}
+.content h1 {
+	left: 166px;
+	top: 134px;
+	font-size: 25px;
+}
+.content b {
+	top: 174px;
+	left: 106px;
+}
+.content a {
+	top: 223px;
+	left: 208px;
+}
+.web-design {
+	width: 50%;
+}
+.graphic-design {
+	width: 50%;
+}
+.app-development {
+	width: 50%;
+}
+.digital-marketing {
+	width: 50%;
+}
+.about-us h2 {
+	margin-top: 32px;
+}
+.img img {
+	width: 93%;
+	padding: 5px;
+}
+.contact-me {
+	margin-top: 50px;
+	margin-left: -20px;
+
+}
+.contact-me i {
+
+	margin-left: -74px;
+
+}
+.about-us h2 {
+	margin-top: 102px;
+}
+.about-us p {
+	margin-bottom: 76px;
+	margin-top: -1px;
+}
+}
+ @media  (max-width:600px){
+ .header-right ul {
+	text-align: center;
+}
+.header-left {
+
+	width: 100%;
+	text-align: center;
+}
+.header-right {
+	text-align: center;
+	margin-top: -46px;
+	width: 100%;
+
+}
+.content h1 {
+	left: 89px;
+	top: 89px;
+	font-size: 23px;
+}
+.content b {
+	top: 125px;
+	left: 48px;
+	text-align: center;
+	font-size: 18px;
+}
+.content a {
+	top: 180px;
+	left: 154px;
+    padding: 7px 8px;
+}
+
+.web-design {
+	width: 100%;
+}
+.graphic-design {
+	width: 100%;
+}
+.app-development {
+	width: 100%;
+}
+.digital-marketing {
+	width: 100%;
+	margin-bottom: 37px;
+}
+.contact-me {
+	margin-top: 50px;
+	margin-left: -44px;
+}
+.contact-me i {
+	font-size: 25px;
+	margin-left: 5px;
+	font-size: 32px;
+	height: 41px;
+}
+
+} 
+
+@media (max-width:360px){
+    .header-right ul li a {
+	padding: 0 1px;
+    font-size: 12px;
+}
+.content h1 {
+	left: 61px;
+	top: 44px;
+	font-size: 21px;
+}
+.content b {
+	top: 83px;
+	left: 43px;
+}
+.content a {
+	top: 143px;
+	left: 119px;
+	padding: 4px 6px;
+}
+.banar-img {
+	height: 244px;
+}
+.contact-me i {
+
+	font-size: 22px;
+	height: 29px;
+}
+.contact-me h3 {
+	width: 175px;
+	font-size: 10px;
+}
+}
+
+    	
